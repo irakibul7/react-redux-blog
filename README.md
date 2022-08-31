@@ -1,11 +1,10 @@
-# Getting Started with Create React App
+# <b>Simple Blog using react redux</b>
 
-<b>Simple Blog using react redux</b>
 
-## Available Scripts
 
-functionality:
+## Features
+1. Search blog by category / title / author name
+2. Filter blog by category name 
+3. Filter blog by author name
 
-### Search blog by category / title / author name
-### Filter blog by category name 
-### Filter blog by author name
+
